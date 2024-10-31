@@ -1,2 +1,1 @@
-# CCp-WSI-ML-workshop
-Details on the Machine learning for WSI workshops
+See the registration page for agenda details [ML-for-WSI](https://ccp-wsi.ac.uk/events/training/machine-learning-for-wsi/)
